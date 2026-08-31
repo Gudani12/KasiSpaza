@@ -1,0 +1,6 @@
+@KasiSpaza.Api_HostAddress = http://localhost:5058
+
+GET {{KasiSpaza.Api_HostAddress}}/weatherforecast/npm
+Accept: application/json
+
+###

@@ -1,0 +1,27 @@
+﻿# Root
+.qodo/
+.vs/
+.DS_Store
+
+# .NET
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Node / Expo
+node_modules/
+.expo/
+.expo-shared/
+web-build/
+dist/
+android/
+ios/
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
