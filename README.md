@@ -42,8 +42,6 @@ The mobile app will later use SQLite for offline-first storage and a local sync 
 - Expo React Native app created in apps/KasiSpazaMobile
 - Solution file created at the repo root
 
-## Phase plan
-We are following the phased approach described in the project brief and will proceed step by step.
 
 ## Run the projects
 ### Backend
